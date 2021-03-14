@@ -1,0 +1,27 @@
+/* body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; 
+
+}*/
+* { 
+  margin:0;
+  padding: 0;
+  font-size:100%;
+  font-family: 'Open Sans', sans-serif; 
+  font-weight: normal; box-sizing: border-box; border: none; outline: none;
+  list-style:none;
+  text-decoration: none;
+  
+}
+
+body {
+  background: #f4f2f7;
+   /* background: #3c1e5f */
+   /* background: #562596 */
+   /* color:#b89576; */
+   /* color:#4173cfec; */
+   /* color:#3cad62ec; */
+   /* color:#cab1f1; */
+}
